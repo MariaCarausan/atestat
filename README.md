@@ -1,2 +1,2 @@
-# atestat01
+# atestat
 proiect de atestat
